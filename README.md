@@ -2,6 +2,7 @@
 
 ## Running the load balancer
 `cd` into root dir
+
 `node index.js`
 
 
